@@ -1,0 +1,111 @@
+static variables are outside method in main class
+constructor cannot be named static
+
+static method can accsess static variables
+
+
+methods can be private
+methods abstract 
+class should be abstract too
+interface are absract dy default
+
+private mehod cn
+changing declaration to protected
+
+in a two 2 dimetional array it is necssary to specify the no of rows ,coloumns can vary.
+
+
+in class A implements of runnable 
+public void run(); compulsary
+start method is not in runnable  it is in thread clsss
+
+
+abstract calss can exist without abstract mthod -->marker interface
+eg serializable
+array list not synchronised
+
+nested maps 
+
+
+covariANT OVVERIDING
+in DIAMOND OPERATOR -->  INHERITANCE DOESNT WORK
+HAS TO BE SAME
+CAN this be BE done by <?super>  pass me object of  parent <extends>  
+
+
+final class
+can object of final cls can be created 
+can a final class extend from-->>final class doesnt allow inheritance 
+
+in hashmap 
+get always by th ekey
+
+arraylist remove is indexed based
+list and array list . inheritance is allowed
+
+
+
+colection can hold obj ans primitive alues
+
+object op stream 
+ojct hirarchy and primitive 
+
+mkdir--> ans to make a directory
+
+child of exception is categorized as checked excluding runtinme
+exception base class = throwable
+
+2 classesin one file cannot be public
+
+
+
+the retur type of lambda expression id interface/functoin itself
+
+
+
+stream-->
+obtain stream 
+map will work on evry value
+string has length method
+
+
+fuction interface
+takes 2 oprands of same type tring ,int
+returns  same type --> ans binary operator
+
+
+consumer is a fuctional interface 
+will take value consume it    Hello world in console --> ans 1
+
+
+
+7/3/19
+
+prepared statement have precompiled queries
+
+prepared statement and statement
+
+index is creation explicitly
+---> primary and unique
+
+
+select from max(sum(salary in emp
+				
+
+
+JUNIT
+done by devlopers
+test small units of program
+
+
+ result set do not give name of the title and label of the columns
+
+
+
+before class
+
+Aftre class--> one time setup
+
+before After
+
+test test one item collection
