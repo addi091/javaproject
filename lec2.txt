@@ -1,0 +1,5 @@
+1) the class can be either public(can be accessed outside package) or private(only within pacakage)
+2) we require inner classes because we want more than one implementations of the super interface
+3)why to make a constructor private: spo that no one can create obj of that class
+4) why to make a class final?: so that no one can inherit it
+5) static members are not inherited

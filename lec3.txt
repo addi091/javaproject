@@ -1,0 +1,10 @@
+object class methods
+- toString() *
+-hashcode()  *
+-equals()   *
+-finalize()  *
+-clone()
+-getClass()
+-wait()    *
+-notify()   *
+-notifyAll()  *

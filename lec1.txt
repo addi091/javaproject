@@ -1,0 +1,19 @@
+\
+\
+noyte:
+1)upcasting 
+downcasting
+
+2) That method will be called in polymorphic ref, whose obj is created
+
+3) costructor purpose is instantiation, but we can use constructor for initialization.
+
+4) abstract classes/methods are used for polymorphism 
+
+5) why abstract classes/methods?
+   To achieve polymorphism
+
+6) why interfaces?
+   1) logic is hidden
+   2) communication between 2 diff entities
+   3) 
