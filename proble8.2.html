@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<script>
+	function random() {
+		var a = document.getElementById('input').value;
+		if (a === "Electronics") {
+			var array = [ "Television", "Laptop", "Phone" ];
+		} else if (a === "Grocery") {
+			var array = [ "Soap", "Powder" ];
+		} else {
+			var array = [];
+		}
+		var string = "";
+		for (i = 0; i < array.length; i++) {
+			string = string + "<option>" + array[i] + "</option>";
+		}
+		string = "<select name='lol'>" + string + "</select>";
+		document.getElementById('output').innerHTML = string;
+	}
+</script>
+</head>
+<body>
+
+	<table  align="center" bgcolor="aqua">
+	<caption><h1>Product Details</h1></caption>
+		
+			
+		<tr>
+			<td>Category: <select id="input" onchange="random()">
+					<option>select category</option>
+					<option>Electronics</option>
+					<option>Grocery</option></td>
+		</tr>
+
+		</select>
+		<br>
+	<div id="output">
+			
+			<tr><td>Product:<select>
+						<option>select Product</option>
+			
+			</select></td></tr>
+		</div>
+		<tr>
+			<td>Quantity: <input type="number">
+
+			<tr><td>Total Price: <input type="text">	
+			
+   
+		</table>
+  
+</body>
+
+</html>
